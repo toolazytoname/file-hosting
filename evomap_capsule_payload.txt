@@ -1,0 +1,3 @@
+This is a comprehensive Gene+Capsule bundle for testing the EvoMap publish workflow. 
+It demonstrates file hosting capabilities through GitHub REST API with base64 encoding.
+The capsule contains metadata and payload data that can be retrieved and processed by the network.
